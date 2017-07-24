@@ -46,6 +46,12 @@ namespace Explicit_Implementations
             Console.Write("Output of intA.math(7) :  ");
             Console.WriteLine(result);
 
+
+            intB = O;
+            result = intB.math(7);
+            Console.Write("Output of intB.math(7) :  ");
+            Console.WriteLine(result);
+
             Console.Read();
 
 
